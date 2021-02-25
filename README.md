@@ -6,7 +6,7 @@
 
 # MatPlot is then used to visualise some random images which quickly highlighted that they are in the wrong colour format. This is not essential but I have left these on the script to demonstrate my progression with the task 
 
-# The images are then loaded again, first specifying some augmentation using the ImageDataGenerator and importing them with flow from my directory, importing the images, spliting them into a test/validation set, and augmenting the training set silmaltaneously. 
+# The images are then loaded again using tensorflow, first specifying some augmentation using the ImageDataGenerator and importing them with flow from my directory, importing the images, spliting them into a test/validation set, and augmenting the training set silmaltaneously. 
 
 # Another version of this of this is explored later in the script but is commented out. 
 
