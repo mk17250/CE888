@@ -10,4 +10,5 @@
 
 # Another version of this of this is explored later in the script but is commented out. 
 
-# In retrospect I have spent a significant amount of time trying to run the data in a CNN and perhaps should have spent more time focusing on EDA and visualisation of the data. But I am improving. 
+# In retrospect I have spent a significant amount of time trying to run the data in a CNN and perhaps should have spent more time focusing on EDA and visualisation of the data. 
+
